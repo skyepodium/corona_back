@@ -1,0 +1,66 @@
+{
+    "list": [
+        {
+            "color": "#FC0000",
+            "points": [
+                {
+                    "latitude": 37.460421,
+                    "longitude": 126.440739,
+                    "title": "인천 국제 공항 / 첫번째 확진자",
+                    "description": "방문일: 1월 19일"
+                }
+            ]
+        },
+        {
+            "color": "#FFAE00",
+            "points": [
+                {
+                    "latitude": 37.562324, 
+                    "longitude": 126.802011,
+                    "title": "김포 공항 / 두번째 확진자",
+                    "description": "입국"
+                }
+            ]
+        },
+        {
+            "color": "#FFE100",
+            "points": [
+                {
+                    "latitude": 37.524517, 
+                    "longitude": 127.027862,
+                    "title": "김포 공항 / 세번째 확진자",
+                    "description": "입국"
+                },
+                {
+                    "latitude": 37.503180, 
+                    "longitude": 127.049166,
+                    "title": "호텔 뉴브 / 세번째 확진자",
+                    "description": "투숙"
+                }
+            ]
+        },
+        {
+            "color": "#2AFF00",
+            "points": [
+                {
+                    "latitude": 37.460421, 
+                    "longitude": 126.440739,
+                    "title": "인천 국제 공항 / 네번째 확진자",
+                    "description": "입국"
+                },
+                {
+                    "latitude": 37.079256, 
+                    "longitude": 127.058785,
+                    "title": "송탄 터미널 / 네번째 확진자",
+                    "description": ""
+                },
+                {
+                    "latitude": 37.350634, 
+                    "longitude": 127.124440,
+                    "title": "분당 서울대 병원 / 네번째 확진자",
+                    "description": ""
+                }                
+            ]
+        }         
+    ]
+}

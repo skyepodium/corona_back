@@ -8,7 +8,13 @@
                     "longitude": 126.440739,
                     "title": "인천 국제 공항 / 첫번째 확진자",
                     "description": "방문일: 1월 19일"
-                }
+                },
+                {
+                    "latitude": 37.478739,
+                    "longitude": 126.668429,
+                    "title": "국가지정입원치료병상 / 첫번째 확진자",
+                    "description": "방문일: 1월 19일"
+                }                
             ]
         },
         {
@@ -17,8 +23,8 @@
                 {
                     "latitude": 37.562324, 
                     "longitude": 126.802011,
-                    "title": "김포 공항 / 두번째 확진자",
-                    "description": "입국"
+                    "title": "김포공항 / 두번째 확진자",
+                    "description": "방문일: 1월 22일"
                 }
             ]
         },
@@ -28,14 +34,38 @@
                 {
                     "latitude": 37.524517, 
                     "longitude": 127.027862,
-                    "title": "김포 공항 / 세번째 확진자",
-                    "description": "입국"
+                    "title": "김포공항 / 세번째 확진자",
+                    "description": "방문일: 1월 22일"
+                },
+                {
+                    "latitude": 37.524885, 
+                    "longitude": 127.027810,
+                    "title": "병원 / 세번째 확진자",
+                    "description": "방문일: 1월 22일"
+                },                
+                {
+                    "latitude": 37.503171, 
+                    "longitude": 127.049145,
+                    "title": "숙박시설/ 세번째 확진자",
+                    "description": "방문일: 1월 22일"
                 },
                 {
                     "latitude": 37.503180, 
                     "longitude": 127.049166,
-                    "title": "호텔 뉴브 / 세번째 확진자",
-                    "description": "투숙"
+                    "title": "편의점 / 세번째 확진자",
+                    "description": "방문일: 1월 23일"
+                },
+                {
+                    "latitude": 37.524885, 
+                    "longitude": 127.027810,
+                    "title": "병원 / 세번째 확진자",
+                    "description": "방문일: 1월 24일"
+                },
+                {
+                    "latitude": 37.642295, 
+                    "longitude": 126.831167,
+                    "title": "병원 / 세번째 확진자",
+                    "description": "방문일: 1월 25일"
                 }
             ]
         },
@@ -43,24 +73,24 @@
             "color": "#2AFF00",
             "points": [
                 {
-                    "latitude": 37.460421, 
-                    "longitude": 126.440739,
-                    "title": "인천 국제 공항 / 네번째 확진자",
-                    "description": "입국"
+                    "latitude": 37.592082,
+                    "longitude": 127.016768,
+                    "title": "상점 / 다섯번째 확진자",
+                    "description": "방문일: 1월 26일"
                 },
                 {
-                    "latitude": 37.079256, 
-                    "longitude": 127.058785,
-                    "title": "송탄 터미널 / 네번째 확진자",
-                    "description": ""
+                    "latitude": 37.564222,
+                    "longitude": 127.029577,
+                    "title": "기타 / 다섯번째 확진자",
+                    "description": "방문일: 1월 26일"
                 },
                 {
-                    "latitude": 37.350634, 
-                    "longitude": 127.124440,
-                    "title": "분당 서울대 병원 / 네번째 확진자",
-                    "description": ""
-                }                
+                    "latitude": 37.612951,
+                    "longitude": 127.098199,
+                    "title": "병원 / 다섯번째 확진자",
+                    "description": "방문일: 1월 30일"
+                }           
             ]
-        }         
+        }                 
     ]
 }
